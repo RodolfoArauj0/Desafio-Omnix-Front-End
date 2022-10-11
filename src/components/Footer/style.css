@@ -1,0 +1,11 @@
+.container-footer {
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+    height: 9rem;
+    margin-top: 18.5rem;
+}
+
+li {
+    font-size: 2.3rem;
+}

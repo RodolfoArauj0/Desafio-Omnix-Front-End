@@ -1,0 +1,17 @@
+.header {
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.span-header {
+    font-size: 8rem;
+}
+
+@media (max-width:740px) {
+    .span-header {
+        text-align: center;
+        font-size: 4.5rem;
+    }
+
+}

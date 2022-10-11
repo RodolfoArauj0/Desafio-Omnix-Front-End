@@ -1,0 +1,23 @@
+.ofertas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15rem;
+}
+
+button {
+    width: 25rem;
+    height: 7rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: 2rem;
+    background-color: aquamarine;
+    position: absolute;
+    bottom: 15rem;
+    right: 4rem;
+    border: 0.1rem solid lightgray;
+}
+
+button:hover {
+    background-color: rgb(16, 230, 158);
+}

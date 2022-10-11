@@ -1,0 +1,16 @@
+{
+    "ofertas": [
+        {
+            "id": 1,
+            "plano": "Bimestral"
+        },
+        {
+            "id": 2,
+            "plano": "Trimestral"
+        },
+        {
+            "id": 3,
+            "plano": "Semestral"
+        }
+    ]
+}

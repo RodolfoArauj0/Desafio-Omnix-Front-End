@@ -1,0 +1,33 @@
+.container-card {
+    border: 0.2rem solid black;
+    width: 25rem;
+    height: 35rem;
+    margin: 2rem 5rem 0 5rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 2rem;
+    flex-wrap: wrap;
+    border-radius: 1rem;
+}
+
+@media (max-width:750) {
+    .container-card {
+        border: 0.2rem solid black;
+        width: 25rem;
+        height: 25rem;
+        margin: 2rem 5rem 0 5rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        font-size: 2rem;
+        flex-wrap: wrap;
+        border-radius: 1rem;
+        min-width: 100%;
+
+    }
+}
